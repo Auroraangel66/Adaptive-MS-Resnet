@@ -26,6 +26,7 @@ Wang, S., Teng, Y., & Perdikaris, P. (2021). Understanding and mitigating gradie
   
   year={2020}
 }
+
 @article{wang2021understanding,
 
   title={Understanding and mitigating gradient flow pathologies in physics-informed neural networks},
